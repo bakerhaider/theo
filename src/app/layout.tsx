@@ -17,7 +17,7 @@ function TopNav() {
   return (
     <nav className="flex w-full items-center justify-between border-b p-4 text-lg font-semibold">
       <div className="">Gallaru</div>
-      <div className="">Sign in</div>
+      <div className="">Sign inn</div>
     </nav>
   );
 }
